@@ -22,8 +22,11 @@ This repository is payload.
 ## Current Corpora
 
 - [slasten](slasten/) — visual table/crystall corpus for `memoris` visual crystall research.
+- [jojo](jojo/) — visual payload for JoJo writing branch.
 
 ## Main Payload URLs
 
 - [slasten/table](https://github.com/slasten3826/slastack-media/tree/main/slasten/table)
 - [slasten/crystall](https://github.com/slasten3826/slastack-media/tree/main/slasten/crystall)
+- [jojo/season-1](https://github.com/slasten3826/slastack-media/tree/main/jojo/season-1)
+- [jojo/season-2](https://github.com/slasten3826/slastack-media/tree/main/jojo/season-2)
